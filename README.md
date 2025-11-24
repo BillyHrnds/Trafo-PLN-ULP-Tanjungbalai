@@ -1,8 +1,8 @@
-![1](https://github.com/user-attachments/assets/8efddd28-35c2-4aaa-b661-a76cc8319e24)# ⚡ PLN Trafo Monitoring System
+(https://github.com/user-attachments/assets/8efddd28-35c2-4aaa-b661-a76cc8319e24)# ⚡ PLN Trafo Monitoring System
 
 Sistem Informasi berbasis Web untuk memantau, mengelola, dan menganalisis beban Gardu Distribusi PLN secara *real-time* dan akurat.
 
-![Dashboard Preview](assets/img/preview_dashboard.png)
+![Dashboard Preview](assets/img/dashboard-dark.png)
 > *Catatan: Ganti `assets/img/preview_dashboard.png` dengan screenshot aplikasi asli Anda.*
 
 ## 📖 Overview (Gambaran Umum)
@@ -91,11 +91,45 @@ Untuk pengujian, gunakan kredensial berikut:
 ## 📸 Galeri
 
 *(Silakan tambahkan screenshot aplikasi di sini)*
-* *Dashboard Dark Mode*
-* *Input Form Pengukuran*
-* *Peta Sebaran*
+## 📸 Galeri Aplikasi
+
+###  Tampilan (Dark Mode)
+
+#### 1. Tampilan Dashboard (Dark Mode)
+![Dashboard View](assets/img/dashboard-dark.png)
+
+#### 2. Halaman Login
+![Halaman Login](assets/img/login-dark.png)
+
+#### 2. Halaman Login Admin
+![Halaman Login](assets/img/log-admin-dark.png)
+
+#### 3. Form Input Pengukuran
+![Input Form](assets/img/form-input-dark.png)
+
+#### 3. Form Peta Sebaran
+![Input Form](assets/img/peta-sebaran-dark.png)
+
+
+###  Tampilan (Light Mode)
+
+#### 1. Tampilan Dashboard (Dark Mode)
+![Dashboard View](assets/img/dashboard-light.png)
+
+#### 2. Halaman Login
+![Halaman Login](assets/img/login-light.png)
+
+#### 2. Halaman Login Admin
+![Halaman Login](assets/img/log-admin-light.png)
+
+#### 3. Form Input Pengukuran
+![Input Form](assets/img/form-input-light.png)
+
+#### 3. Form Peta Sebaran
+![Input Form](assets/img/peta-sebaran-light.png)
+
 
 ---
 
-**Dikembangkan oleh [Nama Anda]**
+**Dikembangkan oleh [Billy Hernandes Kosasi]**
 *Web Developer & Database Enthusiast*
