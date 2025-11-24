@@ -3,7 +3,6 @@
 Sistem Informasi berbasis Web untuk memantau, mengelola, dan menganalisis beban Gardu Distribusi PLN secara *real-time* dan akurat.
 
 ![Dashboard Preview](assets/img/dashboard-dark.png)
-> *Catatan: Ganti `assets/img/preview_dashboard.png` dengan screenshot aplikasi asli Anda.*
 
 ## 📖 Overview (Gambaran Umum)
 
@@ -63,7 +62,7 @@ Masalah utama yang diselesaikan oleh aplikasi ini adalah perhitungan beban manuv
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-anda/pln-trafo-monitoring.git](https://github.com/username-anda/pln-trafo-monitoring.git)
+    git clone (https://github.com/BillyHrnds/Trafo-PLN-ULP-Tanjungbalai)
     ```
 2.  **Setup Database**
     * Buka phpMyAdmin.
@@ -73,7 +72,7 @@ Masalah utama yang diselesaikan oleh aplikasi ini adalah perhitungan beban manuv
     * Buka file `koneksi.php`.
     * Sesuaikan `$host`, `$user`, `$pass`, dan `$db` dengan settingan XAMPP/Laragon Anda.
 4.  **Jalankan Aplikasi**
-    * Buka browser dan akses: `http://localhost/pln-trafo-monitoring`
+    * Buka browser dan akses: `http://localhost/Trafo-PLN-ULP-Tanjungbalai`
 
 ---
 
