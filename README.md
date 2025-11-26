@@ -76,16 +76,6 @@ Masalah utama yang diselesaikan oleh aplikasi ini adalah perhitungan beban manuv
 
 ---
 
-## 🔐 Akun Demo
-
-Untuk pengujian, gunakan kredensial berikut:
-
-| Akses                   | Username / Kode | Password |
-| :---------------------- | :-------------- | :---     |
-| **Guest (Login Awal)**  | `pln2025`       | -        |
-| **Admin (Petugas)**     | `tjbalai`       | `12345`  |
-
----
 
 ## 📸 Galeri
 
